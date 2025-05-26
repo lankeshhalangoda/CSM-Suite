@@ -48,7 +48,7 @@ export default function Home() {
           },
           {
             section: "Data Management Best Practices",
-            type: "warning",
+            type: "success",
             items: [
               "Fill in data systematically - complete one location's information before moving to the next",
               "Use consistent naming conventions (e.g., 'Main Branch' not 'main branch' or 'Main_Branch')",
@@ -127,7 +127,7 @@ export default function Home() {
           },
           {
             section: "Action Types Explained",
-            type: "warning",
+            type: "success",
             items: [
               "EMAIL: Best for detailed notifications to management or support teams",
               "- Include recipient emails (comma-separated for multiple recipients)",
@@ -173,7 +173,7 @@ export default function Home() {
           },
           {
             section: "Best Practices & Tips",
-            type: "warning",
+            type: "success",
             items: [
               "Start with simple rules and gradually add complexity",
               "Test rules in a staging environment before production deployment",
@@ -221,7 +221,7 @@ export default function Home() {
           },
           {
             section: "Status Flow Design",
-            type: "warning",
+            type: "success",
             items: [
               "Start with basic statuses: Open → In Progress → Resolved",
               "Add intermediate statuses as needed: Pending Customer, Escalated, On Hold",
@@ -258,7 +258,7 @@ export default function Home() {
           },
           {
             section: "Trigger Configuration",
-            type: "warning",
+            type: "success",
             items: [
               "Workflow Creation Triggers: Sent when new tickets are created",
               "Assignment Triggers: Notify assignees when tickets are assigned to them",
